@@ -1,6 +1,6 @@
 # macos.fahmi.pl
 
-My portfolio website simulating macOS's GUI: https://macos.dawidolko.pl
+My portfolio website simulating macOS's GUI: https://github.com/MigoVS
 
 Powered by [React](https://reactjs.org/) + [Zustand](https://zustand-demo.pmnd.rs/) + [UnoCSS](https://uno.antfu.me/) + [TypeScript](https://www.typescriptlang.org/) + [Vite](https://vitejs.dev/).
 
