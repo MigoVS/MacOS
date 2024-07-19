@@ -1,4 +1,4 @@
-# macos.dawidolko.pl
+# macos.fahmi.pl
 
 My portfolio website simulating macOS's GUI: https://macos.dawidolko.pl
 
